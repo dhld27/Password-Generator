@@ -4,11 +4,12 @@ A simple Interactive Text-based Python program where you decided how many charac
 ---
 
 # ***Illustration***
-    *1. You need to input how many letters to be in your password.*  
 
-    *2. You need to input how many symbols to be in your password.*  
+*1. You need to input how many letters to be in your password.*  
 
-    *3. You need to input how many numbers to be in your password.*
+*2. You need to input how many symbols to be in your password.*  
+
+*3. You need to input how many numbers to be in your password.*
 
 
 ---  
@@ -50,8 +51,8 @@ A simple Interactive Text-based Python program where you decided how many charac
 # ***Requirements***  
 The requirements you need to have for running this python script are:  
 
-    1. Python 3.x  
-    2. No additional libraries needed
+1. Python 3.x  
+2. No additional libraries needed
 
 ---
 
@@ -59,9 +60,9 @@ The requirements you need to have for running this python script are:
 
 There will be more features to this simple program which are:
 
-    1. Warning message for invalid input.  
-    2. Recommendation system for the password to be unique.  
-    3. User Interface for this program. 
+1. Warning message for invalid input.  
+2. Recommendation system for the password to be unique.  
+3. User Interface for this program. 
 
 --- 
 
